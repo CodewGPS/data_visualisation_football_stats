@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 #importing data from csv file
-df=pd.read_csv(r"C:\Users\Shivanagachander\OneDrive\Desktop\messistats.csv")
-df_ronaldo = pd.read_csv(r"C:\Users\Shivanagachander\OneDrive\Desktop\ronaldostats.csv")
+df=pd.read_csv(r"messistats.csv")
+df_ronaldo = pd.read_csv(r"ronaldostats.csv")
 seasons=df['Seasons']
 age=df['Age']
 squad=df['Squad']
