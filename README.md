@@ -1,6 +1,6 @@
-# data_visualisation_ftball_stats
-2020 proj--store
+# data_visualisation_football_stats
+2022
 
-Ploting Diff Graphs Using matplotlib
+Plotting Diff Graphs Using matplotlib
 
-Player stats CR7 vs M10
+Player stats CR7 vs LM10
